@@ -1,0 +1,32 @@
+[
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X7",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x7/",
+    "series_slug": "x7",
+    "model_name": "X7",
+    "model_detail_url": "https://www.autoevolution.com/cars/bmw-x7-2022.html",
+    "model_slug": "bmw-x7-2022",
+    "model_image_url": "https://s1.cdn.autoevolution.com/images/models/BMW_X7-2022_main.jpg",
+    "model_image_path": "BMW_X7-2022_main.jpg",
+    "model_first_year": "2022",
+    "model_last_year": "Present"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X7",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x7/",
+    "series_slug": "x7",
+    "model_name": "X7 (G07)",
+    "model_detail_url": "https://www.autoevolution.com/cars/bmw-x7-2018.html",
+    "model_slug": "bmw-x7-2018",
+    "model_image_url": "https://s1.cdn.autoevolution.com/images/models/BMW_X7-2018_main.jpg",
+    "model_image_path": "BMW_X7-2018_main.jpg",
+    "model_first_year": "2018",
+    "model_last_year": "2022"
+  }
+]

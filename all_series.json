@@ -1,0 +1,1586 @@
+[
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X7",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x7/",
+    "series_slug": "x7",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X7-2022_main.jpg_tmb.jpg",
+    "series_image_path": "X7.jpg",
+    "series_fuelType": [
+      "Mild Hybrid Diesel",
+      "Mild Hybrid",
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3 Series Touring",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3-series-touring/",
+    "series_slug": "3-series-touring",
+    "series_bodyStyle": "WAGONS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-Series-Touring-2022_main.jpg_tmb.jpg",
+    "series_image_path": "3 Series Touring.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel",
+      "Mild Hybrid Diesel",
+      "Hybrid Gasoline",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "9"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3 Series Sedan",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3-series-sedan/",
+    "series_slug": "3-series-sedan",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-Series-Sedan-2022_main.jpg_tmb.jpg",
+    "series_image_path": "3 Series Sedan.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Mild Hybrid Diesel",
+      "Hybrid Gasoline",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "10"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "8 Series Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/8-series-coupe/",
+    "series_slug": "8-series-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_8-Series-Coupe--2022_main.jpg_tmb.jpg",
+    "series_image_path": "8 Series Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M8 Convertible",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m8-convertible/",
+    "series_slug": "m8-convertible",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M8-Convertible--2022_main.jpg_tmb.jpg",
+    "series_image_path": "M8 Convertible.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X1",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x1/",
+    "series_slug": "x1",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X1-2022_main.jpg_tmb.jpg",
+    "series_image_path": "X1.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "4"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M8 Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m8-coupe/",
+    "series_slug": "m8-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M8-Coupe--2022_main.jpg_tmb.jpg",
+    "series_image_path": "M8 Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "7 Series",
+    "series_detail_url": "https://www.autoevolution.com/bmw/7-series/",
+    "series_slug": "7-series",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_7-Series-2022_main.jpg_tmb.jpg",
+    "series_image_path": "7 Series.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Hybrid Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid",
+      "Electric"
+    ],
+    "series_generation_count": "12"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "8 Series Convertible",
+    "series_detail_url": "https://www.autoevolution.com/bmw/8-series-convertible/",
+    "series_slug": "8-series-convertible",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_8-Series-Convertible-2022_main.jpg_tmb.jpg",
+    "series_image_path": "8 Series Convertible.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X3",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x3/",
+    "series_slug": "x3",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X3-2021_main.jpg_tmb.jpg",
+    "series_image_path": "X3.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Mild Hybrid",
+      "Mild Hybrid Diesel",
+      "Hybrid Gasoline"
+    ],
+    "series_generation_count": "6"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2 Series Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2-series/",
+    "series_slug": "2-series",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2-Series-Coupe-2021_main.jpg_tmb.jpg",
+    "series_image_path": "2 Series Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X4",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x4/",
+    "series_slug": "x4",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X4-2021_main.jpg_tmb.jpg",
+    "series_image_path": "X4.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "4 Series Gran Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/4-series-gran-coupe/",
+    "series_slug": "4-series-gran-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_4-Series-Gran-Coupe--G26--2021_main.jpg_tmb.jpg",
+    "series_image_path": "4 Series Gran Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2 Series Active Tourer",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2-series-active-tourer/",
+    "series_slug": "2-series-active-tourer",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2-Series-Active-Tourer-2021_main.jpg_tmb.jpg",
+    "series_image_path": "2 Series Active Tourer.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Hybrid Gasoline",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "6 Series Gran Turismo",
+    "series_detail_url": "https://www.autoevolution.com/bmw/6-series-gran-turismo/",
+    "series_slug": "6-series-gran-turismo",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_6-Series-Gran-Turismo-2020_main.jpg_tmb.jpg",
+    "series_image_path": "6 Series Gran Turismo.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "5 Series Sedan",
+    "series_detail_url": "https://www.autoevolution.com/bmw/5-series-sedan/",
+    "series_slug": "5-series-sedan",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_5-Series--G30--2020_main.jpg_tmb.jpg",
+    "series_image_path": "5 Series Sedan.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Hybrid Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "11"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "5 Series Touring",
+    "series_detail_url": "https://www.autoevolution.com/bmw/5-series-touring/",
+    "series_slug": "5-series-touring",
+    "series_bodyStyle": "WAGONS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_5-Series-Touring--2020_main.jpg_tmb.jpg",
+    "series_image_path": "5 Series Touring.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "8"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "4 Series Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/4-series/",
+    "series_slug": "4-series",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_4-Series-Coupe-2020_main.jpg_tmb.jpg",
+    "series_image_path": "4 Series Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M4 Convertible",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m4-convertible/",
+    "series_slug": "m4-convertible",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M4-Competition-Convertible-M-xDrive-2021_main.jpg_tmb.jpg",
+    "series_image_path": "M4 Convertible.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "i8",
+    "series_detail_url": "https://www.autoevolution.com/bmw/i8/",
+    "series_slug": "i8",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_i8-2018_main.jpg_tmb.jpg",
+    "series_image_path": "i8.jpg",
+    "series_fuelType": [
+      "Hybrid"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M5",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m5/",
+    "series_slug": "m5",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_MS-CS-2021_main.jpg_tmb.jpg",
+    "series_image_path": "M5.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "11"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "4 Series Convertible",
+    "series_detail_url": "https://www.autoevolution.com/bmw/4-series-convertible/",
+    "series_slug": "4-series-convertible",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_4-Series-Convertible--G23--2020_main.jpg_tmb.jpg",
+    "series_image_path": "4 Series Convertible.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Mild Hybrid Diesel",
+      "Mild Hybrid"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M4",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m4/",
+    "series_slug": "m4",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M4-Coupe--G82--2020_main.jpg_tmb.jpg",
+    "series_image_path": "M4.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1 Series",
+    "series_detail_url": "https://www.autoevolution.com/bmw/1-series/",
+    "series_slug": "1-series",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1-Series-2019_main.jpg_tmb.jpg",
+    "series_image_path": "1 Series.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": "6"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X6",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x6/",
+    "series_slug": "x6",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X6-2019_main.jpg_tmb.jpg",
+    "series_image_path": "X6.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Hybrid Diesel"
+    ],
+    "series_generation_count": "4"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2 Series Gran Tourer",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2-series-gran-tourer/",
+    "series_slug": "2-series-gran-tourer",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2-Series-Gran-Tourer--F45--2018_main.jpg_tmb.jpg",
+    "series_image_path": "2 Series Gran Tourer.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M2",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m2/",
+    "series_slug": "m2",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M2-CS-2019_main.jpg_tmb.jpg",
+    "series_image_path": "M2.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X6 M",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x6m/",
+    "series_slug": "x6m",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X6-M--G06--2019_main.jpg_tmb.jpg",
+    "series_image_path": "X6 M.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M3 Sedan",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m3-sedan/",
+    "series_slug": "m3-sedan",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M3-Sedan--G80--2020_main.jpg_tmb.jpg",
+    "series_image_path": "M3 Sedan.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "5"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X5 M",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x5m/",
+    "series_slug": "x5m",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X5-M-2019_main.jpg_tmb.jpg",
+    "series_image_path": "X5 M.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X5",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x5/",
+    "series_slug": "x5",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X5-2018_main.jpg_tmb.jpg",
+    "series_image_path": "X5.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline",
+      "Hybrid",
+      "Mild Hybrid Diesel"
+    ],
+    "series_generation_count": "6"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1 Series 3 doors",
+    "series_detail_url": "https://www.autoevolution.com/bmw/1-series-3-doors/",
+    "series_slug": "1-series-3-doors",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1-Series-3-doors--F20--LCI-2017_main.jpg_tmb.jpg",
+    "series_image_path": "1 Series 3 doors.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "4"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "i3",
+    "series_detail_url": "https://www.autoevolution.com/bmw/i3/",
+    "series_slug": "i3",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_i3s-2017_main.jpg_tmb.jpg",
+    "series_image_path": "i3.jpg",
+    "series_fuelType": [
+      "Electric",
+      "Hybrid"
+    ],
+    "series_generation_count": "3"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2 Series Convertible",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2-series-convertible/",
+    "series_slug": "2-series-convertible",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2-Series-Convertible--F23--LCI-2017_main.jpg_tmb.jpg",
+    "series_image_path": "2 Series Convertible.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Z4 Roadster",
+    "series_detail_url": "https://www.autoevolution.com/bmw/z4-roadster/",
+    "series_slug": "z4-roadster",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_Z4-2018_main.jpg_tmb.jpg",
+    "series_image_path": "Z4 Roadster.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "6"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3 Series Gran Turismo",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3-series-gran-turismo/",
+    "series_slug": "3-series-gran-turismo",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-Series-Gran-Turismo-LCI--F34--2016_main.jpg_tmb.jpg",
+    "series_image_path": "3 Series Gran Turismo.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "i4",
+    "series_detail_url": "https://www.autoevolution.com/bmw/i4/",
+    "series_slug": "i4",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_i4-2021_main.jpg_tmb.jpg",
+    "series_image_path": "i4.jpg",
+    "series_fuelType": [
+      "Electric"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "8 Series Gran Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/8-series-gran-coupe/",
+    "series_slug": "8-series-gran-coupe",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_8-Series-Gran-Coupe-2019_main.jpg_tmb.jpg",
+    "series_image_path": "8 Series Gran Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1 Series Sedan",
+    "series_detail_url": "https://www.autoevolution.com/bmw/1-series-sedan/",
+    "series_slug": "1-series-sedan",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1-Series-Sedan--F52--2017_main.jpg_tmb.jpg",
+    "series_image_path": "1 Series Sedan.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "iX1",
+    "series_detail_url": "https://www.autoevolution.com/bmw/ix1/",
+    "series_slug": "ix1",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_iX1-2022_main.jpg_tmb.jpg",
+    "series_image_path": "iX1.jpg",
+    "series_fuelType": [],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "iX M",
+    "series_detail_url": "https://www.autoevolution.com/bmw/ix-m/",
+    "series_slug": "ix-m",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_iX-M60-2022_main.jpg_tmb.jpg",
+    "series_image_path": "iX M.jpg",
+    "series_fuelType": [
+      "Electric"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2 Series Gran Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2-series-gran-coupe/",
+    "series_slug": "2-series-gran-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2-Series-Gran-Coupe-2019_main.jpg_tmb.jpg",
+    "series_image_path": "2 Series Gran Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X2",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x2/",
+    "series_slug": "x2",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X2--F39--2018_main.jpg_tmb.jpg",
+    "series_image_path": "X2.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel",
+      "Hybrid"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X4 M",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x4-m/",
+    "series_slug": "x4-m",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X4-M--F98--2021_main.jpg_tmb.jpg",
+    "series_image_path": "X4 M.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M4 CS",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m4-cs/",
+    "series_slug": "m4-cs",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M4-CS-2017_main.jpg_tmb.jpg",
+    "series_image_path": "M4 CS.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M3 Touring",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m3-touring/",
+    "series_slug": "m3-touring",
+    "series_bodyStyle": "WAGONS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M3-Touring-2022_main.jpg_tmb.jpg",
+    "series_image_path": "M3 Touring.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "X3 M",
+    "series_detail_url": "https://www.autoevolution.com/bmw/x3-m/",
+    "series_slug": "x3-m",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_X3-M-2021_main.jpg_tmb.jpg",
+    "series_image_path": "X3 M.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Hybrid"
+    ],
+    "series_generation_count": "2"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "iX3",
+    "series_detail_url": "https://www.autoevolution.com/bmw/ix3/",
+    "series_slug": "ix3",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_iX3-2020_main.jpg_tmb.jpg",
+    "series_image_path": "iX3.jpg",
+    "series_fuelType": [
+      "Electric"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M8 Gran Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m8-series-gran-coupe/",
+    "series_slug": "m8-series-gran-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M8-Gran-Coupe--2022_main.jpg_tmb.jpg",
+    "series_image_path": "M8 Gran Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "iX",
+    "series_detail_url": "https://www.autoevolution.com/bmw/ix/",
+    "series_slug": "ix",
+    "series_bodyStyle": "SUVS",
+    "series_isDiscontinued": false,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_iX-2021_main.jpg_tmb.jpg",
+    "series_image_path": "iX.jpg",
+    "series_fuelType": [
+      "Electric"
+    ],
+    "series_generation_count": "1"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1 Series Cabriolet",
+    "series_detail_url": "https://www.autoevolution.com/bmw/1-series-cabriolet/",
+    "series_slug": "1-series-cabriolet",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1-Series-Cabriolet--E88--2010_main.jpg_tmb.jpg",
+    "series_image_path": "1 Series Cabriolet.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1 Series Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/1-series-coupe/",
+    "series_slug": "1-series-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1-Series--E82--2010_main.jpg_tmb.jpg",
+    "series_image_path": "1 Series Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1 Series M Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/1-series-m-coupe/",
+    "series_slug": "1-series-m-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1-Series-M-Coupe--E82--2010_main.jpg_tmb.jpg",
+    "series_image_path": "1 Series M Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "1500/1600",
+    "series_detail_url": "https://www.autoevolution.com/bmw/15001600/",
+    "series_slug": "15001600",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_1600-1966_main.jpg_tmb.jpg",
+    "series_image_path": "1500-1600.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2000 CS",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2000-cs/",
+    "series_slug": "2000-cs",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2000-CS-1965_main.jpg_tmb.jpg",
+    "series_image_path": "2000 CS.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2002",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2002/",
+    "series_slug": "2002",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2002-Turbo-1973_main.jpg_tmb.jpg",
+    "series_image_path": "2002.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "2800 CS",
+    "series_detail_url": "https://www.autoevolution.com/bmw/2800-cs/",
+    "series_slug": "2800-cs",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_2800-CS-1968_main.jpg_tmb.jpg",
+    "series_image_path": "2800 CS.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3 Series  Cabriolet",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3-series-cabriolet/",
+    "series_slug": "3-series-cabriolet",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-Series-Cabriolet--E93--2010_main.jpg_tmb.jpg",
+    "series_image_path": "3 Series  Cabriolet.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3 Series Compact",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3-series-compact/",
+    "series_slug": "3-series-compact",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-Series-Compact-2005_main.jpg_tmb.jpg",
+    "series_image_path": "3 Series Compact.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3 Series Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3-series-coupe/",
+    "series_slug": "3-series-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-Series-Coupe--E92--2010_main.jpg_tmb.jpg",
+    "series_image_path": "3 Series Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3.0 CSi",
+    "series_detail_url": "https://www.autoevolution.com/bmw/30-csi/",
+    "series_slug": "30-csi",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-0-CSi-1971_main.jpg_tmb.jpg",
+    "series_image_path": "3.0 CSi.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3.0 CSL",
+    "series_detail_url": "https://www.autoevolution.com/bmw/30-csl/",
+    "series_slug": "30-csl",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-0-CSL-1971_main.jpg_tmb.jpg",
+    "series_image_path": "3.0 CSL.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3/15 PS",
+    "series_detail_url": "https://www.autoevolution.com/bmw/315-ps/",
+    "series_slug": "315-ps",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-15-PS-1929_main.jpg_tmb.jpg",
+    "series_image_path": "3-15 PS.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3/20 PS",
+    "series_detail_url": "https://www.autoevolution.com/bmw/320-ps/",
+    "series_slug": "320-ps",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3-20-PS-Tourer-1932_main.jpg_tmb.jpg",
+    "series_image_path": "3-20 PS.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "303",
+    "series_detail_url": "https://www.autoevolution.com/bmw/303/",
+    "series_slug": "303",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_303-Limousine-1933_main.jpg_tmb.jpg",
+    "series_image_path": "303.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "3200",
+    "series_detail_url": "https://www.autoevolution.com/bmw/3200/",
+    "series_slug": "3200",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_3200-Coupe-CS-1962_main.jpg_tmb.jpg",
+    "series_image_path": "3200.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "326",
+    "series_detail_url": "https://www.autoevolution.com/bmw/326/",
+    "series_slug": "326",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_326-1936_main.jpg_tmb.jpg",
+    "series_image_path": "326.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "327",
+    "series_detail_url": "https://www.autoevolution.com/bmw/327/",
+    "series_slug": "327",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_327-Coupe-1937_main.jpg_tmb.jpg",
+    "series_image_path": "327.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "328",
+    "series_detail_url": "https://www.autoevolution.com/bmw/328/",
+    "series_slug": "328",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_328-1936_main.jpg_tmb.jpg",
+    "series_image_path": "328.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "335",
+    "series_detail_url": "https://www.autoevolution.com/bmw/335/",
+    "series_slug": "335",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_335-1939_main.jpg_tmb.jpg",
+    "series_image_path": "335.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "5 Series Gran Turismo",
+    "series_detail_url": "https://www.autoevolution.com/bmw/5-series-gran-turismo/",
+    "series_slug": "5-series-gran-turismo",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_5-Series-Gran-Turismo-LCI-2013_main.jpg_tmb.jpg",
+    "series_image_path": "5 Series Gran Turismo.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "501/502",
+    "series_detail_url": "https://www.autoevolution.com/bmw/501502/",
+    "series_slug": "501502",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_501-1952_main.jpg_tmb.jpg",
+    "series_image_path": "501-502.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "502 Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/502-coupe/",
+    "series_slug": "502-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_502-Coupe-1954_main.jpg_tmb.jpg",
+    "series_image_path": "502 Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "503",
+    "series_detail_url": "https://www.autoevolution.com/bmw/503/",
+    "series_slug": "503",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_503-Cabriolet-1956_main.jpg_tmb.jpg",
+    "series_image_path": "503.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "507",
+    "series_detail_url": "https://www.autoevolution.com/bmw/507/",
+    "series_slug": "507",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_507-Coupe-1959_main.jpg_tmb.jpg",
+    "series_image_path": "507.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "6 Series Convertible",
+    "series_detail_url": "https://www.autoevolution.com/bmw/6-series-convertible/",
+    "series_slug": "6-series-convertible",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_6-Series-Convertible-LCI--F12--2015_main.jpg_tmb.jpg",
+    "series_image_path": "6 Series Convertible.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "6 Series Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/6-series-coupe/",
+    "series_slug": "6-series-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_6-Series-Coupe-LCI--F13--2015_main.jpg_tmb.jpg",
+    "series_image_path": "6 Series Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline",
+      "Diesel"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "6 Series Gran Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/6-series-gran-coupe/",
+    "series_slug": "6-series-gran-coupe",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_6-Series-Gran-Coupe-LCI--F06--2015_main.jpg_tmb.jpg",
+    "series_image_path": "6 Series Gran Coupe.jpg",
+    "series_fuelType": [
+      "Diesel",
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "8 Series",
+    "series_detail_url": "https://www.autoevolution.com/bmw/8-series/",
+    "series_slug": "8-series",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_8-Series--E31--1989_main.jpg_tmb.jpg",
+    "series_image_path": "8 Series.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "i8 Roadster",
+    "series_detail_url": "https://www.autoevolution.com/bmw/i8-roadster/",
+    "series_slug": "i8-roadster",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_i8-Roadster-2018_main.jpg_tmb.jpg",
+    "series_image_path": "i8 Roadster.jpg",
+    "series_fuelType": [
+      "Hybrid"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Isetta",
+    "series_detail_url": "https://www.autoevolution.com/bmw/isetta/",
+    "series_slug": "isetta",
+    "series_bodyStyle": "HATCHBACKS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_Isetta-1955_main.jpg_tmb.jpg",
+    "series_image_path": "Isetta.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M1",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m1/",
+    "series_slug": "m1",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M1-1979_main.jpg_tmb.jpg",
+    "series_image_path": "M1.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M3 Cabriolet",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m3-cabriolet/",
+    "series_slug": "m3-cabriolet",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M3-Cabriolet--E93--2008_main.jpg_tmb.jpg",
+    "series_image_path": "M3 Cabriolet.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M3 Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m3-coupe/",
+    "series_slug": "m3-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M3-Coupe--E92--LCI-2010_main.jpg_tmb.jpg",
+    "series_image_path": "M3 Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M4 GTS",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m4-gts/",
+    "series_slug": "m4-gts",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M4-GTS--F82--2015_main.jpg_tmb.jpg",
+    "series_image_path": "M4 GTS.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M5 Touring",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m5-touring/",
+    "series_slug": "m5-touring",
+    "series_bodyStyle": "WAGONS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M5-Touring-2007_main.jpg_tmb.jpg",
+    "series_image_path": "M5 Touring.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M6 Cabrio",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m6-cabrio/",
+    "series_slug": "m6-cabrio",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M6-Cabrio-LCI-2014_main.jpg_tmb.jpg",
+    "series_image_path": "M6 Cabrio.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M6 Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m6-coupe/",
+    "series_slug": "m6-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M6-Coupe-LCI-2015_main.jpg_tmb.jpg",
+    "series_image_path": "M6 Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "M6 Gran Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/m6-gran-coupe/",
+    "series_slug": "m6-gran-coupe",
+    "series_bodyStyle": "SEDANS",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M6-Gran-Coupe-2013_main.jpg_tmb.jpg",
+    "series_image_path": "M6 Gran Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Z1",
+    "series_detail_url": "https://www.autoevolution.com/bmw/z1/",
+    "series_slug": "z1",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_Z1--E30--1988_main.jpg_tmb.jpg",
+    "series_image_path": "Z1.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Z3 Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/z3-coupe/",
+    "series_slug": "z3-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M-Coupe-1999_main.jpg_tmb.jpg",
+    "series_image_path": "Z3 Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Z3 Roadster",
+    "series_detail_url": "https://www.autoevolution.com/bmw/z3-roadster/",
+    "series_slug": "z3-roadster",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_M-Roadster-1999_main.jpg_tmb.jpg",
+    "series_image_path": "Z3 Roadster.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Z4 Coupe",
+    "series_detail_url": "https://www.autoevolution.com/bmw/z4-coupe/",
+    "series_slug": "z4-coupe",
+    "series_bodyStyle": "COUPES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_Z4-Coupe-2006_main.jpg_tmb.jpg",
+    "series_image_path": "Z4 Coupe.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "series_name": "Z8",
+    "series_detail_url": "https://www.autoevolution.com/bmw/z8/",
+    "series_slug": "z8",
+    "series_bodyStyle": "CONVERTIBLES",
+    "series_isDiscontinued": true,
+    "series_image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/BMW_Z8-Roadster--E52--2000_main.jpg_tmb.jpg",
+    "series_image_path": "Z8.jpg",
+    "series_fuelType": [
+      "Gasoline"
+    ],
+    "series_generation_count": null
+  }
+]

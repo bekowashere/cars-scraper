@@ -1,0 +1,230 @@
+[
+  {
+    "cs_type": "General Specs",
+    "name": "Cylinders"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Displacement"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Power"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Torque"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Fuel System"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Fuel"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Fuel capacity"
+  },
+  {
+    "cs_type": "Performance Specs",
+    "name": "Top Speed"
+  },
+  {
+    "cs_type": "Transmission Specs",
+    "name": "Drive Type"
+  },
+  {
+    "cs_type": "Transmission Specs",
+    "name": "Gearbox"
+  },
+  {
+    "cs_type": "Brakes Specs",
+    "name": "Front"
+  },
+  {
+    "cs_type": "Brakes Specs",
+    "name": "Rear"
+  },
+  {
+    "cs_type": "Tires Specs",
+    "name": "Tire Size"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Length"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Width"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Height"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Front/rear Track"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Wheelbase"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Cargo Volume"
+  },
+  {
+    "cs_type": "Weight Specs",
+    "name": "Unladen Weight"
+  },
+  {
+    "cs_type": "Fuel Economy (NEDC) Specs",
+    "name": "Combined"
+  },
+  {
+    "cs_type": "Performance Specs",
+    "name": "Acceleration 0-62 Mph (0-100 kph)"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Aerodynamics (frontal area)"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Aerodynamics (Cd)"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Turning circle (wall to wall)"
+  },
+  {
+    "cs_type": "Fuel Economy (NEDC) Specs",
+    "name": "City"
+  },
+  {
+    "cs_type": "Fuel Economy (NEDC) Specs",
+    "name": "Highway"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Ground Clearance"
+  },
+  {
+    "cs_type": "Weight Specs",
+    "name": "Gross Weight Limit"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Turning circle (curb to curb)"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Electrical motor power"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Electrical motor torque"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Total maximum power"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Total maximum torque"
+  },
+  {
+    "cs_type": "Notice",
+    "name": "Notice"
+  },
+  {
+    "cs_type": "Fuel Economy (NEDC) Specs",
+    "name": "CO2 Emissions"
+  },
+  {
+    "cs_type": "Dimensions Specs",
+    "name": "Turning circle"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "Combined"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "CO2 Emissions (Combined)"
+  },
+  {
+    "cs_type": "Performance Specs",
+    "name": "Top speed (electrical)"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Power pack"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Nominal Capacity"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Range"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "Low"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "Medium"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "High"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "Extra high"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Fuel capacity (optional)"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Maximum Capacity"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "CO2 Emissions (Medium)"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Charging time (normal)"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Charger type"
+  },
+  {
+    "cs_type": "General Specs",
+    "name": "Fuel capacity (CNG)"
+  },
+  {
+    "cs_type": "Power System Specs",
+    "name": "Charging time (quick)"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "CO2 Emissions (Low)"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "CO2 Emissions (High)"
+  },
+  {
+    "cs_type": "Fuel Economy (WLTP) Specs",
+    "name": "CO2 Emissions (Extra high)"
+  }
+]
